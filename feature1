@@ -10,7 +10,16 @@ implement feature 2
 more code in 2
 
 
-test merging between branches 
+test merging between branches
 
+<<<<<<< HEAD
 =======
 >>>>>>> f6eba28cc4fa6ed3797daa6775670751163597af
+=======
+
+
+woorking on newBranch
+this is another commit 
+yes 
+no
+>>>>>>> newBranch
